@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
+ * @file <stats.h> 
  * @brief <Add Brief Description Here >
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Muhammed Erkam KOCAER>
+ * @date <29/09/2020 - Tuesday >
  *
  */
 #ifndef __STATS_H__
